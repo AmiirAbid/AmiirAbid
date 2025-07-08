@@ -43,7 +43,7 @@
 ###
 
 <div align="center">
-  <img src="" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com/?user=AmiirAbid&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmiirAbid&theme=tokyo-night&area=true&hide_border=true&radius=8" height="250" alt="activity-graph graph"  />
 </div>
 
